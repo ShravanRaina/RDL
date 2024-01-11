@@ -122,6 +122,12 @@ body{
 .intro{
     text-align: center;
     padding: 12px;
+    margin: 20px auto 40px auto;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 60px;
 }
 
 .intro1{
